@@ -2,7 +2,7 @@
 
 This project is a real-time shape detection application using OpenCV. It captures video from your webcam, processes each frame to detect geometric shapes (Triangle, Rectangle, Circle), and displays the results with labeled contours.
 
-![Results](Result\webcam_output.mp4)
+![Results]("Result\webcam_output.mp4")
 
 
 ## Features
